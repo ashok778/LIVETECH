@@ -1,8 +1,7 @@
-# LIVETECH
-# AI Tools Update Hub
+# LIVETECH - STAY WITH TECH
 
 ## Overview
-AI Tools Update Hub is a centralized platform developed to collect and display updates, news, and information about various AI tools from multiple sources in one place. This system helps users stay updated with the latest AI technologies without visiting different websites.
+LIVETECH is a centralized platform developed to collect and display updates, news, and information about various AI tools from multiple sources in one place. This system helps users stay updated with the latest AI technologies without visiting different websites.
 
 ---
 
@@ -142,4 +141,4 @@ AI-Tools-Update-Hub/
 ---
 
 ## Author
-Team-13 livetech
+Team-13 LIVE TECH
